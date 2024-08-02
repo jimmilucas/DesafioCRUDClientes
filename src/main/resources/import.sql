@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Max Planck', '05184222677', 35285.38, '1991-10-03', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ernest Solvay', '67537712980', 19203.46, '1977-11-18', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Albert Einstein', '16139925304', 38194.02, '1965-05-19', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marie Curie', '62616662450', 39737.06, '1995-07-21', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ernest Rutherford', '98110957102', 18400.42, '1999-06-24', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Frederick Lindemann', '51115272063', 22293.04, '1972-05-04', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Hendrik Lorentz', '47660155415', 21467.88, '1913-05-02', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Henri Poincaré', '22554685142', 22293.04, '1991-02-05', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Arnold Sommerfeld', '42527757529', 19203.46, '1984-05-16', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Georges Hostelet', '01447862228', 18400.42, '1944-10-06', 2);
